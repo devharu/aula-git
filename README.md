@@ -1,2 +1,3 @@
-# aula-git
-Aula sobre a utilização do Git.
+# README aula git
+
+Esse repositório faz parte de uma aula de git na EBAC
